@@ -1,0 +1,1 @@
+For v<1: just an "llm" executable to invoke from other shells. For v1, autocomplete akin to Cursor/Copilot.
